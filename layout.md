@@ -1,2 +1,3 @@
 untitled.tex
+begin_itemize_color_blue_item__.tex
 begin_table_caption_Mean_difference__.tex
